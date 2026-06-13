@@ -1,5 +1,37 @@
 # Claude-Powered Patient Access & No-Show Prevention Assistant
 
+## Project Impact
+
+- Analyzed 110,526 healthcare appointment records
+- Identified 20.19% overall no-show rate
+- Identified 36.97% no-show risk among patients waiting 31+ days
+- Identified neighborhoods exceeding 23% no-show rates
+- Built AI-assisted healthcare analytics dashboards for stakeholder decision-making
+
+## Dashboard Screenshots
+
+### Executive Overview
+
+![Executive Dashboard](Executive_summary_dashboard.png)
+
+### Patient Risk Dashboard
+
+![Patient Risk Dashboard](Patient_risk_dashboard.png)
+
+### Operations Dashboard
+
+![Operations Dashboard](Operational_dashboard.png)
+
+### Neighborhood Dashboard
+
+![Neighborhood Dashboard](Neighborhood_access_dashboard.png)
+
+### AI Insights Dashboard
+
+![AI Insights Dashboard](Ai_insights_summary.png)
+
+
+
 ## Overview
 
 This project analyzes over 110,000 real-world healthcare appointment records to identify patient no-show patterns, access barriers, and operational improvement opportunities.
