@@ -14,17 +14,12 @@
 
 ![Executive Dashboard](Executive_summary_dashboard.png)
 
-### Patient Risk Dashboard
-
-![Patient Risk Dashboard](Patient_risk_dashboard.png)
 
 ### Operations Dashboard
 
 ![Operations Dashboard](Operational_dashboard.png)
 
-### Neighborhood Dashboard
 
-![Neighborhood Dashboard](Neighborhood_access_dashboard.png)
 
 ### AI Insights Dashboard
 
