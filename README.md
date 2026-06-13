@@ -23,7 +23,7 @@
 
 ### AI Insights Dashboard
 
-![AI Insights Dashboard](Ai_insights_summary.png)
+![AI Insights Dashboard](ai_insights_summary.png)
 
 
 
