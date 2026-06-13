@@ -1,12 +1,5 @@
 # Claude-Powered Patient Access & No-Show Prevention Assistant
 
-## Project Impact
-
-- Analyzed 110,526 healthcare appointment records
-- Identified 20.19% overall no-show rate
-- Identified 36.97% no-show risk among patients waiting 31+ days
-- Identified neighborhoods exceeding 23% no-show rates
-- Built AI-assisted healthcare analytics dashboards for stakeholder decision-making
 
 ## Dashboard Screenshots
 
@@ -15,24 +8,20 @@
 ![Executive Dashboard](Executive_summary_dashboard.png)
 
 
-### Operations Dashboard
-
-![Operations Dashboard](Operational_dashboard.png)
-
-
-
-### AI Insights Dashboard
-
-![AI Insights Dashboard](ai_insights_summary.png)
-
-
-
 ## Overview
 
 This project analyzes over 110,000 real-world healthcare appointment records to identify patient no-show patterns, access barriers, and operational improvement opportunities.
 
 The dashboard was designed to demonstrate how AI-assisted analytics can help healthcare organizations translate operational data into actionable insights for clinic leaders, care coordinators, and public-health stakeholders.
 
+## Project Impact
+
+- Analyzed 110,526 healthcare appointment records
+- Identified 20.19% overall no-show rate
+- Identified 36.97% no-show risk among patients waiting 31+ days
+- Identified neighborhoods exceeding 23% no-show rates
+- Built AI-assisted healthcare analytics dashboards for stakeholder decision-making
+  
 ## Why This Project Fits Claude Corps
 
 Claude Corps focuses on helping organizations use AI to solve real operational challenges.
